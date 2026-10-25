@@ -70,7 +70,13 @@ requirements.txt
 
 ## Screenshots
 
-Add a screenshot of your `dq_results` table and your terminal run here.
+Pipeline run and tests:
+<img width="1857" height="1001" alt="image" src="https://github.com/user-attachments/assets/0be43537-c335-46d8-afed-ff52e19eb0ee" />
+
+Data quality results (dq_results table):
+<img width="1287" height="817" alt="image" src="https://github.com/user-attachments/assets/c8758426-2fba-4295-b208-8d2ded670a74" />
+
+
 
 ## What I learned
 
