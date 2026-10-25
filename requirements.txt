@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+requests
+pytest
+# Only needed if you load into SQL Server instead of SQLite:
+# pyodbc
